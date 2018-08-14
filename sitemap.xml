@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://voicecoach.app/index.html</loc>
+    <lastmod>2018-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://voicecoach.app/images/parrot_logo_muse.svg</image:loc>
+      <image:caption>Parrot logo in corner.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://voicecoach.app/images/parrot_logo_muse.svg</image:loc>
+      <image:caption>The parrot symbolizes vocal training that VoiceCoach is all about.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://voicecoach.app/images/white_plain.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://voicecoach.app/images/soundwave.svg</image:loc>
+      <image:caption>VoiceCoach uses visual soundwaves to show your voice back to you to help you practice.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://voicecoach.app/images/voicecoach_upright_correct.svg</image:loc>
+      <image:caption>VoiceCoach mockup with L phoneme. Correct pronunciation.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://voicecoach.app/images/voicecoach_down_wrong.svg</image:loc>
+      <image:caption>Mockup of app with L phoneme. Incorrect pronunciation.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://voicecoach.app/images/voicecoach_upright_wrong.svg</image:loc>
+      <image:caption>VoiceCoach mockup with L phoneme. Incorrect pronunciation.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://voicecoach.app/images/voicecoach_down_correct.svg</image:loc>
+      <image:caption>VoiceCoach mockup with L phoneme. Correct pronunciation.</image:caption>
+    </image:image>
+  </url>
+</urlset>
