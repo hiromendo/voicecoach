@@ -6,15 +6,15 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://voicecoach.app/images/parrot_logo_muse.svg</image:loc>
-      <image:caption>Parrot logo in corner.</image:caption>
+      <image:loc>http://voicecoach.app/images/white_plain.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://voicecoach.app/images/parrot_logo_muse.svg</image:loc>
       <image:caption>The parrot symbolizes vocal training that VoiceCoach is all about.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://voicecoach.app/images/white_plain.svg</image:loc>
+      <image:loc>http://voicecoach.app/images/parrot_logo_muse.svg</image:loc>
+      <image:caption>Parrot logo in corner.</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://voicecoach.app/images/soundwave.svg</image:loc>

@@ -1,60 +1,63 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="voicecoach.app" resolutions="1x" timestamp="1534281740596">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="voicecoach.app" resolutions="1x" timestamp="1534299233060">
   <folder name="css">
     <file name="site_global.css" crc="191217028"/>
-    <file name="index.css" crc="7193470" ref="index"/>
-    <file name="nomq_index.css" crc="4189104508" ref="index"/>
+    <file name="master_a-master.css" crc="3907115342" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="3940079395" ref="index"/>
+    <file name="nomq_index.css" crc="129299590" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="futurastd-heavy.woff" crc="65455427"/>
-    <file name="futurastd-heavy.eot" crc="488619767"/>
-    <file name="futurastd-heavy.svg" crc="4094987495"/>
-    <file name="futurastd-light.woff" crc="425352660"/>
-    <file name="futurastd-light.eot" crc="405682075"/>
-    <file name="futurastd-light.svg" crc="353272780"/>
-    <file name="futurastd-medium.woff" crc="499249055"/>
-    <file name="futurastd-medium.eot" crc="312692591"/>
-    <file name="futurastd-medium.svg" crc="71625794"/>
-    <file name="archivo-black-v6-latin-regular.woff" crc="3785039007"/>
-    <file name="archivo-black-v6-latin-regular.eot" crc="4014671122"/>
-    <file name="archivo-black-v6-latin-regular.svg" crc="4129710604"/>
     <file name="futurastd-book.woff" crc="3768006217"/>
     <file name="futurastd-book.eot" crc="3800926160"/>
     <file name="futurastd-book.svg" crc="4126623793"/>
     <file name="futurastd-extrabold.woff" crc="51372556"/>
     <file name="futurastd-extrabold.eot" crc="188068545"/>
     <file name="futurastd-extrabold.svg" crc="122015667"/>
+    <file name="archivo-black-v6-latin-regular.woff" crc="3785039007"/>
+    <file name="archivo-black-v6-latin-regular.eot" crc="4014671122"/>
+    <file name="archivo-black-v6-latin-regular.svg" crc="4129710604"/>
+    <file name="futurastd-medium.woff" crc="499249055"/>
+    <file name="futurastd-medium.eot" crc="312692591"/>
+    <file name="futurastd-medium.svg" crc="71625794"/>
+    <file name="futurastd-light.woff" crc="425352660"/>
+    <file name="futurastd-light.eot" crc="405682075"/>
+    <file name="futurastd-light.svg" crc="353272780"/>
+    <file name="futurastd-heavy.woff" crc="65455427"/>
+    <file name="futurastd-heavy.eot" crc="488619767"/>
+    <file name="futurastd-heavy.svg" crc="4094987495"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="278381782" ref="index"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
-    <file name="webpro.js" crc="416662029" ref="index"/>
-    <file name="form_check.php" crc="4110044762" ref="index"/>
-    <file name="form_throttle.php" crc="22190333" ref="index"/>
-    <file name="form_process.php" crc="257545537" ref="index"/>
-    <file name="form-u435.php" crc="447307863" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
-    <file name="require.js" crc="3861931657" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u435.php" crc="143021315" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
     <file name="voicecoach-favicon.ico" crc="4238770767" ref="index"/>
-    <file name="parrot_logo_muse.svg" crc="4002038817" seo="true" ref="index">
-      <caption webpage="index" alt="Parrot logo in corner. "/>
-      <caption webpage="index" alt="The parrot symbolizes vocal training that VoiceCoach is all about. "/>
-      <caption webpage="index" alt="Parrot logo in corner. "/>
-      <caption webpage="index" alt="The parrot symbolizes vocal training that VoiceCoach is all about. "/>
-      <caption webpage="index" alt="Parrot logo in corner. "/>
-      <caption webpage="index" alt="The parrot symbolizes vocal training that VoiceCoach is all about. "/>
-    </file>
-    <file name="parrot_logo_muse_poster_.png" crc="524907643" ref="index"/>
     <file name="white_plain.svg" crc="91208973" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="white_plain_poster_.png" crc="4129428812" ref="index"/>
+    <file name="parrot_logo_muse.svg" crc="4002038817" seo="true" ref="index">
+      <caption webpage="index" alt="The parrot symbolizes vocal training that VoiceCoach is all about. "/>
+      <caption webpage="index" alt="Parrot logo in corner. "/>
+      <caption webpage="index" alt="The parrot symbolizes vocal training that VoiceCoach is all about. "/>
+      <caption webpage="index" alt="Parrot logo in corner. "/>
+      <caption webpage="index" alt="The parrot symbolizes vocal training that VoiceCoach is all about. "/>
+      <caption webpage="index" alt="Parrot logo in corner. "/>
+    </file>
+    <file name="parrot_logo_muse_poster_.png" crc="524907643" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="soundwave.svg" crc="3984768280" seo="true" ref="index">
       <caption webpage="index" alt="VoiceCoach uses visual soundwaves to show your voice back to you to help you practice."/>
       <caption webpage="index" alt="VoiceCoach uses visual soundwaves to show your voice back to you to help you practice."/>
@@ -71,7 +74,6 @@
       <caption webpage="index" alt="Mockup of app with L phoneme. Incorrect pronunciation. "/>
     </file>
     <file name="voicecoach_down_wrong_poster_.png" crc="3959123449" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="voicecoach_upright_wrong.svg" crc="4292001334" seo="true" ref="index">
       <caption webpage="index" alt="VoiceCoach mockup with L phoneme. Incorrect pronunciation."/>
       <caption webpage="index" alt="VoiceCoach mockup with L phoneme. Incorrect pronunciation."/>
@@ -85,5 +87,5 @@
     </file>
     <file name="voicecoach_down_correct_poster_.png" crc="3778450053" ref="index"/>
   </folder>
-  <file name="index.html" crc="3967287905" seo="true" mt="1534281720505" redirect="true"/>
+  <file name="index.html" crc="142888735" seo="true" mt="1534299157268" redirect="true"/>
 </manifest>
